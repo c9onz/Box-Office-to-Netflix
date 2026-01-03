@@ -6,7 +6,7 @@ I. Analyzed 2018-2022 Netflix data to guide a new catalog of movies based on per
 
 II. Methodology<br> 
 
-Compiled and pre-processed 2546 rows of data from The Numbers in Excel. 
+Compiled and pre-processed 2546 rows of data from The Numbers in Excel and created visualizations in [Tableau](https://public.tableau.com/app/profile/christine.gonzalez4230/vizzes). 
 
 Standardized and aggregated data based on the following:
 1) Highest-grossing movies by genre, <br>
