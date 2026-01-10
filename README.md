@@ -1,8 +1,7 @@
 # Box-Office-to-Netflix
-I. Analyzed 2018-2022 Netflix data to guide a new catalog of movies based on performance trends at the box office.<br>
-
-[Box Office Dataset](https://github.com/c9onz/Box-Office-to-Netflix/blob/main/The-Numbers-Movie-Data-2018-2022.xlsx)<br>
+I. Analyzed 2018-2022 Netflix data to guide a new catalog of movies based on performance trends at the box office.<br><br>
 [Box Office Slides](https://docs.google.com/presentation/d/1UG98h6qXgzUief76dNQmU7si4dTNEb2o04mlRCH82AE/edit?usp=sharing)<br>
+[Box Office Dataset](https://github.com/c9onz/Box-Office-to-Netflix/blob/main/The-Numbers-Movie-Data-2018-2022.xlsx)<br>
 
 II. Methodology<br> 
 
