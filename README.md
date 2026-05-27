@@ -14,6 +14,6 @@ Standardized and aggregated data based on the following:
 5) Classification of certain movies that fall under multiple genres
 
 II. Data Limitations & Considerations:<br><br>
-Firstly, I had to take special consideration in deciding which attributes to focus on. That included deciding between theater release dates and re-release dates on streaming platforms. In some instances, if a film does not generate enough capital at the box office, it is re-released on a subscription-based streaming platform where it gets more visibility. 
+Special consideration was taken in deciding which attributes to focus on. That included deciding between theater release dates and re-release dates on streaming platforms. In some instances, if a film does not generate enough capital at the box office, it is re-released on a subscription-based streaming platform where it gets more visibility. 
 
-Lastly, many films fall under multiple genres, which makes it incredibly difficult to categorize and make accurate predictions for each genre. In most cases, I deferred to their primary genre, categorized accordingly, and analyzed historical data for any consistency in trends.
+Furthermore, many films fall under multiple genres, which makes it incredibly difficult to categorize and make accurate predictions for each genre. In most cases, I deferred to their primary genre, categorized accordingly, and analyzed historical data for any consistency in trends.
